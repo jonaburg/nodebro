@@ -8,12 +8,18 @@ When you want to quickly take a glance at how several github based projects are 
 ## install 
 
 ### download
-` git clone https://github.com/jonaburg/nodebro.git `
+```
+ git clone https://github.com/jonaburg/nodebro.git 
+```
 ### enter downloaded directory and build
-` cd nodebro`
-` go build -o nodebro `
+```
+ cd nodebro
+ go build -o nodebro 
+```
 ### move binary to path
-` mv nodebro /usr/local/bin/nodebro`
+```
+ mv nodebro /usr/local/bin/nodebro
+```
 
 
 ## Setup
