@@ -1,0 +1,102 @@
+## place in ~/.config/nodeman/config
+### Github PAT ex:
+#pat = "ghp_n8Jv8sTTkdsameMmlC2d8Enfnskklp3oeckK"
+
+### list all the github repos owner/repo you want to track.
+
+#[[repos]]
+#Owner = "cardano-foundation"
+#Repo = "cardano-graphql"
+#
+#[[repos]]
+#Owner = "ava-labs"
+#Repo = "avalanchego"
+#
+#[[repos]]
+#Owner = "bitcoin"
+#Repo = "bitcoin"
+#
+#[[repos]]
+#Owner = "input-output-hk"
+#Repo = "cardano-node"
+#
+#[[repos]]
+#Owner = "cosmos"
+#Repo = "gaia"
+#
+#[[repos]]
+#Owner = "neutron-org"
+#Repo = "neutron"
+#
+#[[repos]]
+#Owner = "dashpay"
+#Repo = "dash"
+#
+#[[repos]]
+#Owner = "ethereum"
+#Repo = "go-ethereum"
+#
+#[[repos]]
+#Owner = "paritytech"
+#Repo = "polkadot-sdk"
+#
+#[[repos]]
+#Owner = "paritytech"
+#Repo = "substrate-api-sidecar"
+#
+#[[repos]]
+#Owner = "ConsenSys"
+#Repo = "teku"
+#
+#[[repos]]
+#Owner = "flashbots"
+#Repo = "mev-boost"
+#
+#[[repos]]
+#Owner = "KILTprotocol"
+#Repo = "kilt-node"
+#
+#[[repos]]
+#Owner = "litecoin-project"
+#Repo = "litecoin"
+#
+#[[repos]]
+#Owner = "sigp"
+#Repo = "lighthouse"
+#
+#[[repos]]
+#Owner = "bitcoin-cash-node"
+#Repo = "bitcoin-cash-node"
+#
+#[[repos]]
+#Owner = "thetatoken"
+#Repo = "theta-protocol-ledger"
+#
+#[[repos]]
+#Owner = "PureStake"
+#Repo = "moonbeam"
+#
+#[[repos]]
+#Owner = "centrifuge"
+#Repo = "centrifuge-chain"
+#
+#[[repos]]
+#Owner = "near"
+#Repo = "nearcore"
+#
+#[[repos]]
+#Owner = "vechain"
+#Repo = "thor"
+#
+#[[repos]]
+#Owner = "Stride-Labs"
+#Repo = "stride"
+#
+#[[repos]]
+#Owner = "celestiaorg"
+#Repo = "celestia-node"
+#
+#[[repos]]
+#Owner = "celestiaorg"
+#Repo = "celestia-app"
+#
