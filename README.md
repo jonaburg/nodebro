@@ -2,6 +2,9 @@
 
 When you want to quickly take a glance at how several github based projects are developing and peruse through their release notes. vim navigational TUI git release tracking viewer. Simply navigate, (j/up, k/down) most recent release tags updated, and enter to view tag specific release note. ASC sort in order of age of release.
 
+![Front](front.webp)
+![Inner](back.webp)
+
 ## install 
 
 ### download
@@ -38,4 +41,3 @@ etc.
 
 ## run
 `nodebro`
-
