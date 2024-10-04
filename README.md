@@ -38,7 +38,7 @@ pat = "ghp_n8Jv8sTTkdsameMmlC2d8Enfnskklp3oeckK" // example PAT
 [[repos]]
 Owner = "bitcoin"
 Repo = "bitcoin"
-#[[repos]]
+[[repos]]
 Owner = "ethereum"
 Repo = "go-ethereum"
 ```
