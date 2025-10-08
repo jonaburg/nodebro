@@ -1,4 +1,4 @@
-module nodebro
+module github.com/jonaburg/nodebro
 
 go 1.19
 
