@@ -10,8 +10,8 @@ import (
 	"github.com/gdamore/tcell/v2"
 	"github.com/rivo/tview"
 	"github.com/BurntSushi/toml"
-    "nodebro/page"
-    "nodebro/requests"
+    "github.com/jonaburg/nodebro/page"
+    "github.com/jonaburg/nodebro/requests"
 )
 
 type Config struct {
